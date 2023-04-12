@@ -1,0 +1,15 @@
+h1{
+    font-family: "Comic Sans MS", "Comic Sans", cursive !important;
+}
+.site-heading-upper{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/*if updates don't work..
+1. make sure linked styles to page
+2. make sure you linked them correctly snd below original styles
+3. makes sure spelling is correct 
+3b. try !important before semicolon
+4. try refreshing page
+5. try refreshing without cache
+6. try different browser */
+
